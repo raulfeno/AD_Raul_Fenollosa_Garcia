@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<libros>
+    <libro id="0">
+        <titulo>La conjura de los necios</titulo>
+        <autor>John Kennedy Toole</autor>
+        <anyo_publicacion>2001</anyo_publicacion>
+        <editorial>Anagrama</editorial>
+        <paginas>350</paginas>
+    </libro>
+    <libro id="1">
+        <titulo>La comunidad del anillo</titulo>
+        <autor>J. R. R. Tolkien</autor>
+        <anyo_publicacion>1954</anyo_publicacion>
+        <editorial>George Allen Unwin</editorial>
+        <paginas>300</paginas>
+    </libro>
+    <libro id="2">
+        <titulo>El niño del pijama de rayas</titulo>
+        <autor>John Boyne</autor>
+        <anyo_publicacion>2006</anyo_publicacion>
+        <editorial>David Fickling Books</editorial>
+        <paginas>250</paginas>
+    </libro>
+</libros>
